@@ -3,9 +3,9 @@ apiVersion: v1
 kind: Pod
 
 metadata:
-  name: gabs_myapp_pod
+  name: gabs-myapp-pod
   labels:
-    app: gabs_myapp
+    app: gabs-myapp
     costcenter: harness
     location: SAO_PAULO
 
