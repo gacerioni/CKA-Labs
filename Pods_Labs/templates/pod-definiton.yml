@@ -13,5 +13,3 @@ spec:
   containers:
     - name: nginx-container
       image: nginx
-    - name: backend-container
-      image: redis
